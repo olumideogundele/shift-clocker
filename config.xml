@@ -55,12 +55,12 @@
 	 
     <access origin="*" />
  
-<config-file platform="android" parent="/manifest" mode="merge">
-    <application android:debuggable="false"/>
-</config-file>
+
  
 
-    <!-- iPhone / iPod Touch  - lower 4s
+    <!-- <config-file platform="android" parent="/manifest" mode="merge">
+    <application android:debuggable="false"/>
+</config-file>iPhone / iPod Touch  - lower 4s
 <application android:debuggable="false"
 
 
